@@ -1,0 +1,279 @@
+{
+    "restaurants": [
+        {
+            "name": "Chez Nicos",
+            "score": 4.5,
+            "rank": "#2 of 18,975 Restaurants in Paris",
+            "comments": [
+                {
+                    "comment": "The crepes were outstanding. We had a couple of the savoury crepes (cheese, mushroom chicken and ham) a sweet one (Nutella). The crepes were large and stuffed full of ingredients. The owner(?)/chef warmly greeted our family when we arrived and he was helpful in answering our questions. Combine outstanding food that is very reasonably priced with warm and friendly staff who work very hard (they open 'til 2am) and one really appreciates what they do and the outstanding experience they provide their customers.",
+                    "toxic": false
+                },
+                {
+                    "comment": "Best crepes in Paris! Lots of options and veggie as well! Very generous with all the ingredients and vegetables and sauces are free of charge. Very nice employees as well. I visit this place at least three times a week and recommend it all my friends! They now come across all Paris just to have the famous crepe. Also the prices there are unbeatable and they work till 2am everyday, it’s the only place you can get hot food this late at night in the area. Don’t forget to try sweet ones as well, the strawberry with nutella and whipped cream is pure joy!",
+                    "toxic": false
+                },
+                {
+                    "comment": "Web stumbles upon this place on a Saturday afternoon for a quick bite. The food was absolutely amazing and fresh. The owner was gracious and accommodating. I had the Crepe Nicos which had grilled eggplant, spicy meat with tomatoes, salad and cheese. I ate every single bite. I highly recommend this place. The prices are extremely reasonable and a very popular spot for tourists and locals. We will be back again very soon. Thank you Nico!",
+                    "toxic": false
+                },
+                {
+                    "comment": "I’ve never seen a bigger crêpe in my life... And for 5€! You ask for 2-3 ingredientes and the cooks will give you +3 ingredients for free. Speciality of the house: the onions. Fresh and tasty! Would recommend to anyone for sure.",
+                    "toxic": false
+                },
+                {
+                    "comment": "If you're feeling peckish late at night. Chez Nicos is the best place to go. The staff is always on top to serve us hot, consistent and appetizing pancakes for a very reasonable price-quality ratio. I recommend 100%.",
+                    "toxic": false
+                },
+                {
+                    "comment": "Chez Nicos is my favourite creperie in Paris by far! The crepes are all delicious, very nutritious and not expensive. You get a full meal for less than 10€. The chef is always smiling, lovely, accommodating and attentive and makes everyone feel at home. The place is very well located, clean and friendly. Parisians or tourists passing through, don't hesitate to drop in (again and again) at Nicos: you'll never regret it.",
+                    "toxic": false
+                },
+                {
+                    "comment": "I came with my children aged 5 and 6. I was served by Amar The welcome was wonderful and we all had a great time. The prices are very affordable and the crepe maker is really not stingy. We sat inside to taste our finds. The pancake of the day is monumental and so is the Nutella banana. A little crowded in front but really fast and efficient service.",
+                    "toxic": false
+                },
+                {
+                    "comment": "The chef very much Friendly, crêpes was delicious and satisfying service. I recommend you to eat these satisfying instead of lunch in Paris. It’s really so big that I had a hard time finishing it, but it’s a budget-friendly choice so you can manage one or two meals. I preferred the one with blackchol. Must try! Crêpes, chocolat noir.",
+                    "toxic": false
+                },
+                {
+                    "comment": "I tried Chez Nicos during my stay in Paris, I was looking for new and non-touristy places to eat well and at affordable prices, everyone was talking about this place and I must say that they were absolutely right. Huge portions and fantastic crepes, they are really good, with very special options. Top notch gluten-free and vegetarian options and very friendly owners who were able to tell me a little about their passion for their work. If you're hungry and you're in Paris, run to dinner here!",
+                    "toxic": false
+                },
+                {
+                    "comment": "Small place but at the same time able to give you satisfaction. Crepes delicious and stuffed to the point of making them look like giant sandwiches. In a city where the English language is used as a souvenir, the very nice chef Nico is also able to understand Italian. He wants to give satisfaction to tourists by advising you what to put in the crepes and, in my case, he decided to add seasonings by asking me and without supplement. It will fill you with a few euros spent and you will certainly be satisfied.",
+                    "toxic": false
+                },
+                {
+                    "comment": "Simple place, but with tasty and well served food. Very friendly attendant. We ate two crepes: one with ground beef and the other with parma ham (the best). Each crepe costs 10.00 euros, which we topped off with a good beer. All without formality, at the balcony, watching an NFL game.",
+                    "toxic": false
+                },
+                {
+                    "comment": "A delicious and filling crepe. I was hungry so I was very satisfied. The eggplant and minced meat at Crepe Nikos were delicious. The restaurant was homey and welcoming. The owner had a very friendly atmosphere! The food was more than worth the price. I’d like to come again. Top!",
+                    "toxic": false
+                },
+                {
+                    "comment": "The BEST crepe stand in the Latin Quarter hands down. I’ve tried so many around Paris and this is definitely the best My favorite savory crepe is la Crêpe du Chef which has eggplant, feta and mozzarella (and they add the tomato, lettuce and caramelized onion for free!). The brothers who run the stand - Amar and Simar - are also so wonderful. Good vibes and tasty bites - what more can you ask for! A must visit for a French classic!",
+                    "toxic": false
+                }
+            ]
+        },
+        {
+            "name": "New Jawad Longchamp",
+            "score": 5.0,
+            "rank": "#44 of 18,975 Restaurants in Paris",
+            "comments": [
+                {
+                    "comment": "Totally Underrated Gem in the 16th Arrondissement. I can only recommend this place to everyone who appreciates great service and even greater food for a reasonable price.",
+                    "toxic": false
+                },
+                {
+                    "comment": "Incredible Food and Dessert. Great hospitality Great service Great Food. Could not fault it.",
+                    "toxic": false
+                },
+                {
+                    "comment": "New Jawad Longchamp is without a doubt my favorite Indian restaurant in Paris. The service is impeccable, the food is prepared with delicacy, and the ambiance is classy.",
+                    "toxic": false
+                },
+                {
+                    "comment": "Really Awful. We went to this restaurant because it was highly ranked on trip advisor. They messed up our order 3 times and IT TOOK ONE HOUR AND A HALF for the food to arrive. The food was so disappointing.",
+                    "toxic": true
+                },
+                {
+                    "comment": "Please do not go to this restaurant. Tasteless, and then I found a hair. Just a waste of an evening.",
+                    "toxic": true
+                },
+                {
+                    "comment": "Forced to write a review. We were disappointed by the quantity and quality of the food. Ridiculous pricing for the food.",
+                    "toxic": true
+                },
+                {
+                    "comment": "The excellent reviews of this restaurant are rigged! The chutney and pickle had gone bad. AVOID THIS PLACE!!",
+                    "toxic": true
+                },
+                {
+                    "comment": "Amazing food with great portion sizes. The environment here was amazing, the staff was incredibly friendly and super accommodating.",
+                    "toxic": false
+                }
+            ]
+        },
+        {
+            "name": "Ciel de Paris",
+            "score": 4.0,
+            "rank": "#3,926 of 18,975 Restaurants in Paris",
+            "comments": [
+                {
+                    "comment": "Expensive and worth it",
+                    "toxic": false
+                },
+                {
+                    "comment": "Cena stupenda",
+                    "toxic": false
+                },
+                {
+                    "comment": "The views, rather than the food or wine.",
+                    "toxic": true
+                },
+                {
+                    "comment": "Awful Experience",
+                    "toxic": true
+                },
+                {
+                    "comment": "Drab food and service with outdated decor high above Paris",
+                    "toxic": true
+                },
+                {
+                    "comment": "Disappointing",
+                    "toxic": true
+                },
+                {
+                    "comment": "Great view but the restaurant in needs of fresh ingredients up",
+                    "toxic": true
+                },
+                {
+                    "comment": "Amazing views!",
+                    "toxic": false
+                },
+                {
+                    "comment": "At least Badoit was good",
+                    "toxic": true
+                },
+                {
+                    "comment": "Rude! Not Paris at all.",
+                    "toxic": true
+                },
+                {
+                    "comment": "A most wonderful location for special celebrations",
+                    "toxic": false
+                }
+            ]
+        },
+        {
+            "name": "Bofinger",
+            "score": 3.5,
+            "rank": "#4,939 of 18,975 Restaurants in Paris",
+            "comments": [
+                {
+                    "comment": "Despite misgivings that this might be a tourist trap, it was instead for us a very credible homage to the bygone era of Belle Epoque grand Parisian restaurants; waiters in black tie, bright grand fin de siècle decor, and a menu with traditional classic restaurant dishes.",
+                    "toxic": false
+                },
+                {
+                    "comment": "For a storied physically gorgeous brasserie, my daughter and I were extremely disappointed in the food. The bread they serve with the meal was the worst bread we've had thus far in our 5 days in Paris and the French Onion soup was lukewarm with disappointing flavorless broth.",
+                    "toxic": true
+                },
+                {
+                    "comment": "My boyfriend and I visited the bofinger on Saturday night, we wanted to try some real french cuisine and the restaurant was highly recommended by the staff at the hotel we stayed at. It was easily the worst restaurant experience I have ever had the displeasure of enduring.",
+                    "toxic": true
+                },
+                {
+                    "comment": "One of the very worst places to eat. I ordered calves liver which was raw in the centre and bleeding on the plate, boiled vegetables unseasoned.",
+                    "toxic": true
+                },
+                {
+                    "comment": "The atmosphere is very special, a lovely 150 year old brasserie filled with life, serving traditional Alsacienne food. The sauerkraut is absolutely delicious.",
+                    "toxic": false
+                },
+                {
+                    "comment": "The place is truly physically astounding - the nicest brasserie we've been in thus far. If it were not for the beauty of the physical space we would have given this place 2 stars.",
+                    "toxic": false
+                },
+                {
+                    "comment": "I have never visited a restaurant with such a pitiful service. Slow, rude, inconsiderate with customers, who pay their salaries.",
+                    "toxic": true
+                },
+                {
+                    "comment": "The restaurant has a wonderful atmosphere, all classical wood Liberty style we really liked it and the food is very good especially fish.",
+                    "toxic": false
+                }
+            ]
+        }
+    ],
+    "hotels": [
+        {
+            "name": "The People - Paris Bercy",
+            "score": 4.5,
+            "rank": "#1 of 74 hostels in Paris",
+            "comments": [
+                {
+                    "comment": "Nestled in the heart of Paris Bercy, The People hotel garners praise for its prime location, surrounded by accessible metro stations and essential stores.",
+                    "toxic": false
+                },
+                {
+                    "comment": "Guests consistently appreciate the spotless rooms with private balconies and cozy beds, while the added conveniences of a kitchen and secure storage are a hit.",
+                    "toxic": false
+                },
+                {
+                    "comment": "However, visitors should note that some rooms may experience ventilation challenges and occasional noise.",
+                    "toxic": true
+                }
+            ]
+        },
+        {
+            "name": "Hôtel Grand Powers",
+            "score": 5.0,
+            "rank": "#1 of 1,855 hotels in Paris",
+            "comments": [
+                {
+                    "comment": "Eve though our room was beautiful I was appalled because you room service trays were left in the corridors outside our room for up to 24 hours.",
+                    "toxic": true
+                },
+                {
+                    "comment": "If I would have to summarize, I would say that perhaps boutique hotels shouldn’t be taken as 5 star hotels unless in very exceptional cases and if have my doubts this hotel is one of those cases.",
+                    "toxic": true
+                },
+                {
+                    "comment": "The staff speaks little English which is a predicament in an international hotel.",
+                    "toxic": true
+                },
+                {
+                    "comment": "The outdoor terrace for these rooms is very small.",
+                    "toxic": false
+                },
+                {
+                    "comment": "The room itself was quite nice.",
+                    "toxic": false
+                },
+                {
+                    "comment": "The biggest compliment I would give to the hotel is of its staff and service. They were uniformly excellent.",
+                    "toxic": false
+                }
+            ]
+        },
+        {
+            "name": "Mama Shelter Paris East",
+            "score": 4.0,
+            "rank": "#939 of 1,855 hotels in Paris",
+            "comments": [
+                {
+                    "comment": "3 night stay with family 2 adults and 2 children 6-8 years old. Used to hotels with family suites, we wanted to try the Mama and we were disappointed. Staff at reception check in and check out not very friendly, let's just say the minimum of friendliness. Does not give any information at all on how the hotel catering works, you have to fend for yourself. Either. We ask to call a taxi, we must call reception 15' before the desired taxi departure time, apparently too difficult to take the commission 30' in advance. Positive side Our suite was made up of 2 bedrooms so each has its own space in a space with 2 bathrooms, the overall decor was nice. Quality breakfast and plenty of choice. Negative rating A bathroom was not cleaned properly we requested a cleaning service, The mini bar was empty and there was a smell of sewage in one of the 2 rooms. We dined 2 evenings at the restaurant, the service was quite long and each time one person had their dish a long time after the others, not great… on the other hand, the restaurant staff was very friendly. And last point Friday evening and Saturday evening is evening with music in the restaurant until late so it's good for the atmosphere less for sleeping. In short, we don't have any memorable memories of Mama.",
+                    "toxic": true
+                },
+                {
+                    "comment": "Since the takeover by the Accord group, mama shelters have multiplied but the quality is frankly declining. Faithful since its creation, all the little details that made the Mama charming disappear one after the other. No more Apple TV, no more hair dryers, empty fridges, no more magazines in the rooms...And who is the sinister individual who had the idea of removing glass glasses from each room? Does this save 5 minutes of cleaning and optimize staff time? Savings no doubt but for my part I will look elsewhere from now on.",
+                    "toxic": true
+                },
+                {
+                    "comment": "Great hotel for a trip to Paris with friends. Staff were friendly and always available. Breakfast was the best I’ve ever had. Honestly, there was everything you could possibly want. The rooms were clean and as described with very comfortable beds. Restaurant and bar were very busy on Friday and Saturday night so getting served took its time. Tip, get a couple of drinks at a time. Despite the noise downstairs as soon as you leave that area to head up to the rooms you can’t hear a thing. Would highly recommend this hotel.",
+                    "toxic": false
+                },
+                {
+                    "comment": "After three great stays in Mama Shelters Lyon and Bordeaux we recently found ourselves needing a bed for the night in eastern Paris and were delighted to find a Mama Shelter. We’ve loved the slightly kooky styling, nice clean rooms and great locations of the other hotels so it was a no-brainer to book in. We arrived late after a 6 hour drive and wanted a drink & something to eat before we went to bed. The bar/restaurant was busy but not full when we arrived but we were told it was a 1.5hr wait for a table. We hadn’t been offered a table at check-in or suggested we reserve one in advance so we were quite disappointed. The maitre d’ was unhelpful & unfriendly, I felt we didn’t ‘look right’ to get a table. Usually good hotels keep a couple of tables free for their hotel guests, apparently not here. Fortunately, we found a lovely little bistro (Le Papillon) just 5 mins up the road with lovely food and welcoming and friendly staff. Mama Shelter Paris East unfortunately does not ‘love you’ like the others Mamas do...I’d give it a miss unless you’re desperate.",
+                    "toxic": true
+                },
+                {
+                    "comment": "I stayed at the hotel for 5 nights. Each night I was provided a different number of hand towels. The hotel provides you one tiny bar of soap per day, which you are supposed to use on your face, body, and hair. On my second to last morning, I was using the toilet and leaned against the wall with my hand, which caused the wall in the bathroom to collapse, and it was not repaired by the end of my stay. Further, it was never even mentioned to me after I had spoken to the front desk about it. As other reviews have stated, the lighting in the hotel room was terrible. To even have a chance of seeing things properly in your room, you have to turn all of the lights, which requires you flip no less than 6 separate switches located in different parts of the room. Also as other reviewers have stated, the climate control in the room does not work well. Further, the shelf in the hotel room for suitcases was too small to accommodate my suitcase, and most normal, non-carry-on size suitcases. The drapes in the room are also poorly designed in that they let in some light where the window meets the wall. One morning as I just exited the hotel, I spat down a sewer grate near the front door and thought nothing of it. Well, apparently, one of the front desk associates or managers saw what I had done and in a fit of rage, went off on me (yelling), and told me no less than 5 times in a row what a rude, horrible, disrespectful person I am. Whether what I did could be considered offensive or not, I thought it was extremely inappropriate for a hotel employee to be treating a guest that way.",
+                    "toxic": true
+                },
+                {
+                    "comment": "Dark, so very, very dark. Black walls, black light switches, black electrical sockets, very poor lighting. I had to use the torch on my phone to find the light switches and the electrical sockets. I even had to use the torch on my phone to find my black handbag on the black floor in the dark room one evening. Small room almost entirely filled by the bed and a ginormous television. No desk space, and just a cheap plastic chair squeezed in at the table with the ginormous tv. Basic and ageing bathroom. On the plus side there was a microwave and a fridge, but nothing to make use of them - no cutlery, no cups or glasses, no tea or coffee. Personally I found the bed too hot. Fluffy mattress cover and big fluffy duvet combined with a hot room made the whole thing feel suffocating. Food in the restaurant tasted good but the service was incredibly slow, even though I got there early before it got busy. All in all not to my taste. Lighting and fresh air are more my cup of tea.",
+                    "toxic": true
+                },
+                {
+                    "comment": "In summary: - No recognition of ALL status. The hotel openly acknowledges that their systems don't show ALL loyalty and so they ignore this and treat everyone poorly. - I am a diamond ALL member and none of my benefits were provided. No free drink, no welcome gift, no upgrade, no free breakfast and no late check out. I was told on three occasions that I was not entitled to breakfast despite mentioning I am diamond and having a physical confirmation on my booking saying 'free breakfast'. - The worst part of the stay was being woken up at 8am by housekeeping knocking on my door asking when I was going to leave. This hotel really succeeded in making me feel unwelcome! Apparently they do this to all customers to ensure they kick them out early and force them to pay for breakfast having been woken up unexpectedly. I gave the hotel an opportunity to make it right and provide some compensation for such a poor experience. Their response was wholly inadequate and provided no resolution. They had the audacity to suggest that if I choose to return they would give me an 'experience that meets my expectations'. Shouldn't a hotel ALWAYS provide an 'experience that meets my expectations'? This is just basic service and they should strive to provide an experience that exceeds my expectations. Instead they should be trying to get me to return to rectify the poor experience and show me that this was a rare occurrence. What is clear from their response to my complaint is that they deal with these complaints all the time and do not care about leaving people happy as they know they don’t need people to return.",
+                    "toxic": true
+                }
+            ]
+        }
+    ]
+}
