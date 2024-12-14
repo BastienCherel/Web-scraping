@@ -1,0 +1,5 @@
+<script>start("/Users/bastien/Library/CloudStorage/GoogleDrive-bastiench08@gmail.com/Mon Drive/ESILV/A5_DIA/WEBSCRAPING/NLP_2024/data/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("hotels.csv","hotels.csv",0,11497,"11.2 kB",1734194994,"14/12/2024 17:49:54");</script>
+<script>addRow("llm_output.json","llm_output.json",0,24014,"23.5 kB",1734195146,"14/12/2024 17:52:26");</script>
+<script>addRow("restaurants.csv","restaurants.csv",0,10556,"10.3 kB",1734194919,"14/12/2024 17:48:39");</script>
